@@ -1,2 +1,4 @@
 class Car < Vehicle
-  def go ""
+  def go "VRRROOOOOOOOOOOOOOOOOOOOOOOM!!!!!"
+  end 
+end 
